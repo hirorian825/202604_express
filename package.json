@@ -1,0 +1,23 @@
+{
+  "name": "202604_express",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hirorian825/202604_express#readme",
+  "bugs": {
+    "url": "https://github.com/hirorian825/202604_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirorian825/202604_express.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
